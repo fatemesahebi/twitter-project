@@ -1,0 +1,62 @@
+        .profile-photo {
+            width: 80px;
+            height: 80px;
+            border-radius: 40px;
+            float: left;
+            margin-left: 0px;
+            margin-top: 10px;
+        }
+
+        .name {
+            font-family: 'Roboto', sans-serif;
+            font-size: 24px;
+            font-weight: 400;
+            margin-left: 16px;
+            color: #FEFFFF;
+            margin-top: 0px;
+            vertical-align: central;
+            text-transform: capitalize;
+            /*letter-spacing: 0.8px;*/
+            line-height: 40px;
+        }
+
+        .username {
+            font-family: 'Inter', sans-serif;
+            font-family: 'Roboto', sans-serif;
+            font-size: 20px;
+            font-weight: 400;
+            margin-left: 16px;
+            color: #8799A5;
+            margin-top: 30px;
+            /*padding: 30px;*/
+        }
+
+        .twitt {
+            font-family: 'Roboto', sans-serif;
+            font-size: 30px;
+            font-weight: 400;
+            margin-left: 10px;
+            color: #FEFFFF;
+            margin-top: 30px;
+            letter-spacing: 0.8px;
+        }
+
+        .time {
+            font-family: 'Inter', sans-serif;
+            font-family: 'Roboto', sans-serif;
+            font-size: 24px;
+            font-weight: 400;
+            color: #8799A5;
+            margin-top: 30px;
+            margin-bottom: 24px;
+        }
+
+        .icon-number {
+            font-family: 'Inter', sans-serif;
+            font-family: 'Roboto', sans-serif;
+            font-size: 20px;
+            font-weight: 400;
+            padding: 20px;
+            vertical-align: 15px;
+            margin-top: 10px;
+        }
